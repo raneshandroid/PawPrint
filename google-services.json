@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "77339332992",
+    "firebase_url": "https://pawprint-23531.firebaseio.com",
+    "project_id": "pawprint-23531",
+    "storage_bucket": "pawprint-23531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77339332992:android:d28e65bc88d423ea",
+        "android_client_info": {
+          "package_name": "com.raneshprasad.pawprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77339332992-2ambgq6sco8gsj98kej9j96imhvj92of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhi17-10GRGeXAR2A0qPt7y9v6JwyMxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
